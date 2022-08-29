@@ -1,19 +1,19 @@
 /*
-Theme Name: Illdy
-Theme URI: http://colorlib.com/wp/themes/illdy/
-Author: Colorlib
-Author URI: http://colorlib.com
-Description: Illdy is a stunning multipurpose WordPress theme built based on Bootstrap frontend framework making it fully responsive and mobile friendly. This theme is well suited for business, landing page, portfolio or any other creative websites. This leaves heavy lifting to WordPress Customizer therefore you can create your website on live preview mode. Which means that you can see changes happen on your website in real time as you make them
-Version: 2.2.0
-Tested in Wordpress up to: 5.8.1
-Requires PHP: 5.6
-Tested in PHP up to: 8.0.9
+Theme Name: ScheiblingAB (illdy child)
+Theme URI: https://github.com/scheiblingco/scheiblingab
+Author: Scheibling Consulting (original by Colorlib)
+Author URI: https://scheibling.se
+Description: This theme is heavily based on the Illdy theme by Colorlib
+Version: 5.0.0
+Tested in Wordpress up to: 8.0.0
+Requires PHP: 8.0
+Tested in PHP up to: 9.0.0
 
-Tags: portfolio, entertainment, blog
+Tags: scheibling, consulting, ab
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: blog, e-commerce, portfolio
-Text Domain: illdy
+Tags: scheibling
+Text Domain: scheibling
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
